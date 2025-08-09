@@ -8,7 +8,7 @@
 - [Data Source](Data-Source)
 - [Problem Statement](Problem-Statement)
 - [Tools Used](Tools-Used)
-- [Skills Demonstrated](Skills-Demonstrated) and [Data Analysis](Data-Analysis)
+- [Skills Demonstrated and Data Analysis](Skills-Demonstrated and Data Analysis) 
 - [Data Analysis](Data-Analysis)
 - [Visualisations](Visualisations)
 - [Insights from Analysis](Insights-from-Analysis)
