@@ -8,7 +8,7 @@
 - [Data Source](Data-Source)
 - [Problem Statement](Problem-Statement)
 - [Tools Used](Tools-Used)
-- [Skills Demonstrated](Skills-Demonstrated)
+- [Skills Demonstrated](Skills-Demonstrated) and [Data Analysis](Data-Analysis)
 - [Data Analysis](Data-Analysis)
 - [Visualisations](Visualisations)
 - [Insights from Analysis](Insights-from-Analysis)
@@ -37,6 +37,7 @@ delivers actionable insights through Power BI dashboards.
 # Tools Used
 - PostgreSQL – Database creation, management, and querying.
 - pgAdmin – Interface for managing the PostgreSQL database.
+- SQL – Data definition, manipulation, and analysis queries.
 - Power BI – Data visualization and interactive dashboard creation.
 
 # Skills Demonstrated
