@@ -39,10 +39,18 @@ delivers actionable insights through Power BI dashboards.
 - SQL – Data definition, manipulation, and analysis queries.
 - Power BI – Data visualization and interactive dashboard creation.
 
-# Skills Demonstrated
+# Skills Demonstrated and Data Analysis
+
+
+
 
 - ## Created Tables
 <img width="664" height="288" alt="sill 30" src="https://github.com/user-attachments/assets/c9e19673-b33e-42f6-b668-302c66e82e28" />
+
+
+
+
+
 
 
 - ## Inserted into the Tables
@@ -52,10 +60,19 @@ delivers actionable insights through Power BI dashboards.
 
 
 
+
+
+
+
 - ## Combined tables thereby creating a relationship
 
 
    <img width="703" height="826" alt="skill 9" src="https://github.com/user-attachments/assets/12d97a97-197c-4a00-a5fb-4f14c61a447b" />
+
+
+
+
+
 
 
 - ## Aggregated data and created view for virtual disposition as a table
