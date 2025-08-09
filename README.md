@@ -41,6 +41,8 @@ delivers actionable insights through Power BI dashboards.
 
 # Skills Demonstrated and Data Analysis
 
+- ## Created Database via Postgres > create > Database
+
 
 
 
