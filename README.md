@@ -139,6 +139,11 @@ Recommendations
 -   Data-Driven Stock Planning: Use historical sales trends to optimize inventory levels and prevent overstock or shortages.
 
 
+# Back to top
+
+## [Table of content](Table-of-content)
+
+
 
   
 
